@@ -9,11 +9,21 @@ main {
     background-size: cover;
 }
 
-article {
-    width: 50vw;
-    height: 100vh;
+img {
     margin: 0 auto;
-    background-color: rgba(255, 255, 255, 0.5);
+}
+.test1 {
+    width: 80vw;
+    height: 20vh;
+}
+
+.test2 {
+    width: 80vw;
+    height: 80vh;
+    margin: 0 auto;
+    background: url(../img/mainBack.png) no-repeat;
+    background-position: center center;
+    background-size: contain;
 }
 
 p {
