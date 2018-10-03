@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 main {
     width: 100vw;
     height: 100vh;
@@ -9,9 +13,12 @@ article {
     width: 50vw;
     height: 100vh;
     margin: 0 auto;
-    background-color: rgba(255, 255, 255, 0.5)
+    background-color: rgba(255, 255, 255, 0.5);
 }
 
+p {
+    margin: 0;
+}
 /*.bbg {
     background: url(../img/mainBack.png) no-repeat;
     background-position: center center;
