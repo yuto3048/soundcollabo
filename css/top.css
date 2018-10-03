@@ -1,0 +1,24 @@
+main {
+    width: 100vw;
+    height: 100vh;
+    background: url(../img/backColor.png);
+    background-size: cover;
+}
+
+article {
+    width: 50vw;
+    height: 100vh;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.5)
+}
+
+/*.bbg {
+    background: url(../img/mainBack.png) no-repeat;
+    background-position: center center;
+    background-size: contain;
+    padding: 200px;
+}
+.ll{
+    text-align: center;
+    margin: auto auto;
+}*/
