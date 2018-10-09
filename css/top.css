@@ -13,11 +13,12 @@ img {
     margin: 0 auto;
 }
 .test1 {
-    width: 80vw;
+    width: 100vw;
 }
 .test3 {
     width: 45vw;
-    height: 250px;
+    height: 10vh;
+    min-height: 250px;
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
@@ -34,6 +35,7 @@ img {
     margin-right: auto;
     margin-top: 30px;
     padding-bottom: 10px;
+    text-align: center;
     background: url(../img/mainBack.png) no-repeat;
     background-position:bottom 10%;
     background-size: contain;
@@ -45,28 +47,22 @@ img {
 
 .topimg {
     width: 12vw;
-    height: 10vh;
-    margin-left: 3vw;
     position:  relative; top: -3vw;
 }
 .arasuziimg {
     width: 12vw;
-    height: 10vh;
     position: relative; top:  -3vw;
 }
 .raizyouimg {
     width: 12vw;
-    height: 10vh;
     position: relative; top: -3vw;
 }
 .yoyakuimg {
     width: 12vw;
-    height: 10vh;
     position: relative; top: -3vw;
 }
 .staffimg {
     width: 12vw;
-    height: 10vh;
     position: relative; top: -3vw;
 }
 
