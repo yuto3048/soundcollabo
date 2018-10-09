@@ -16,28 +16,25 @@ img {
     width: 100vw;
 }
 .test3 {
-    width: 45vw;
-    height: 10vh;
-    min-height: 250px;
+    height: 25vh;
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
     background: url(../img/logo.png) no-repeat; 
-    background-position: center center;
+    background-position: center;
     background-size: contain;
 }
 
 .test2 {
-    width: 70vw;
-    height: 73vh;
+    height: 75vh;
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30px;
-    padding-bottom: 10px;
+    margin-top: 0px;
+    padding-bottom: 0px;
     text-align: center;
     background: url(../img/mainBack.png) no-repeat;
-    background-position:bottom 10%;
+    background-position: center top;
     background-size: contain;
 }
 
@@ -46,23 +43,23 @@ img {
 }
 
 .topimg {
-    width: 12vw;
+    width: 24vh;
     position:  relative; top: -3vw;
 }
 .arasuziimg {
-    width: 12vw;
+    width: 24vh;
     position: relative; top:  -3vw;
 }
 .raizyouimg {
-    width: 12vw;
+    width: 24vh;
     position: relative; top: -3vw;
 }
 .yoyakuimg {
-    width: 12vw;
+    width: 24vh;
     position: relative; top: -3vw;
 }
 .staffimg {
-    width: 12vw;
+    width: 24vh;
     position: relative; top: -3vw;
 }
 
