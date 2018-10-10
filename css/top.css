@@ -1,12 +1,12 @@
 body {
     margin: 0;
+    background: url(../img/backColor.png);
+    background-size: cover;
 }
 
 main {
     width: 100vw;
     height: 100vh;
-    background: url(../img/backColor.png);
-    background-size: cover;
 }
 
 img {
@@ -18,11 +18,11 @@ img {
 .test3 {
     width: 45vw;
     height: 10vh;
-    min-height: 250px;
+    min-height: 150px;  /*変更点*/
     margin-top: 0;
     margin-left: auto;
     margin-right: auto;
-    background: url(../img/logo.png) no-repeat; 
+    background: url(../img/logo.png) no-repeat;
     background-position: center center;
     background-size: contain;
 }
@@ -37,8 +37,8 @@ img {
     padding-bottom: 10px;
     text-align: center;
     background: url(../img/mainBack.png) no-repeat;
-    background-position:bottom 10%;
-    background-size: contain;
+    background-position:25% 1%;
+    background-size:100% 100%;
 }
 
 .test4 {
@@ -63,13 +63,39 @@ img {
 }
 .staffimg {
     width: 12vw;
-    position: relative; top: -3vw;
+    position: relative;
+    top: -3vw;
 }
 
-p {
-    margin: 0;
+.test51 {
+    width: 25vw;
+    height: 50vh;
+    float: left;
 }
-/*.bbg {
+.hyouimg {
+    width: 20vw;
+}
+.test52 {
+    width: 45vw;
+    height: 50vh;
+    float: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;    
+    
+}
+
+/*
+
+
+.p {
+    width: 50px;
+    height: 10vh;
+    position: relative;
+    top: 0vw;
+    right: 70vh;
+}
+
+.bbg {
     background: url(../img/mainBack.png) no-repeat;
     background-position: center center;
     background-size: contain;
