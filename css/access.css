@@ -66,29 +66,11 @@ img {
     position: relative;
     top: -3vw;
 }
-
-.test51 {
-    width: 25vw;
+.test5 {
+    width: 70vw;
     height: 50vh;
-    float: left;
-    margin-left: 5vw;
 }
-.hyouimg {
-    width: 20vw;
-}
-.test52 {
-    width: 35vw;
-    height: 50vh;
-    float: right;
-    margin-right: 5vw;
-}
-.test521 {
-  text-align: center;
-  font-family: "MS PGothic", Arial, sans-serif;
-  font-size: 30px;
-  font-weight: bold;
 
-}
 
 /*
 
