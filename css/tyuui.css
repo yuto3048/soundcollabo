@@ -80,19 +80,19 @@ img {
 .test511 {
   margin-left: 5vw;
   text-align: left;
-  font-size: 15px;
+  font-size: 1vw;
   font-family: "MS PGothic", Arial, sans-serif;
   font-weight: bold;
 }
 .test52 {
-  width: 25vw;
-  height: 25vh;
+  width: 30vw;
+  height: 30vh;
   float: left;
   margin-top: 5vh;
   margin-left: 5vw;
 }
 .test53 {
-  width: 35vw;
+  width: 30vw;
   height: 25vh;
   float: right;
   margin-top: 5vh;
@@ -100,7 +100,7 @@ img {
 }
 
 .test531 {
-  font-size: 25px;
+  font-size: 1.5vw;
   font-family: "MS PGothic", Arial, sans-serif;
 }
 /*
