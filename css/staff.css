@@ -76,24 +76,37 @@ img {
     float: left;
 }
 .test51 {
-  width: 35vw;
+  width: 20vw;
   height: 50vh;
   float: left;
   padding-left: 5vw;
 }
-.test52 {
-  width: 30vw;
+.test512 {
+  width: 20vw;
   height: 50vh;
-  float: right;
+  float: left;
+  padding-left: 2vw;
+}
+.test52 {
+  width: 20vw;
+  height: 50vh;
+  float: left;
+  padding-left: 1vw;
 }
 .test511 {
-  font-size: 20px;
+  font-size: 1.5vw;
+  text-align: left;
+  font-family: "MS PGothic", Arial, sans-serif;
+  font-weight: bold;
+}
+.test5121 {
+  font-size: 1.5vw;
   text-align: left;
   font-family: "MS PGothic", Arial, sans-serif;
   font-weight: bold;
 }
 .test521 {
-  font-size: 20px;
+  font-size: 1.5vw;
   text-align: left;
   font-family: "MS PGothic", Arial, sans-serif;
   font-weight: bold;
