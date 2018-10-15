@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+    background: url(../img/backColor.png);
+    background-size: cover;
+}
+
+main {
+    width: 100vw;
+    height: 100vh;
+}
+
+img {
+    margin: 0 auto;
+}
+.test1 {
+    width: 100vw;
+    height: 20vh;
+}
+.test3 {
+    width: 45vw;
+    /*height: 10vh;*/
+    min-height: 150px;  /*変更点*/
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    background: url(../img/logo.png) no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+
+.test2 {
+    width: 70vw;
+    height: 73vh;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 5vh;
+    padding-left: : 5vw;
+    background: url(../img/mainBack.png) no-repeat;
+    background-position:25% 1%;
+    background-size:100% 100%;
+}
+
+.test5 {
+    width: 65vw;
+
+    float: left;
+    overflow: scroll;
+    height: 65vh;
+}
+.test51 {
+  width: 20vw;
+  height: 50vh;
+  float: left;
+  padding-left: 5vw;
+  width: 50vw;
+  height: 65vh;
+}
+.test512 {
+  width: 20vw;
+  height: 50vh;
+  float: left;
+  padding-left: 2vw;
+}
+.test52 {
+  width: 20vw;
+  height: 50vh;
+  float: left;
+  padding-left: 1vw;
+}
+.test511 {
+  font-size: 1.5vw;
+  text-align: left;
+  font-family: "MS PGothic", Arial, sans-serif;
+  font-weight: bold;
+  width: 50vw;
+  height: 65vh;
+}
+.test5121 {
+  font-size: 1.5vw;
+  text-align: left;
+  font-family: "MS PGothic", Arial, sans-serif;
+  font-weight: bold;
+}
+.test521 {
+  font-size: 1.5vw;
+  text-align: left;
+  font-family: "MS PGothic", Arial, sans-serif;
+  font-weight: bold;
+}
+/*
+
+
+.p {
+    width: 50px;
+    height: 10vh;
+    position: relative;
+    top: 0vw;
+    right: 70vh;
+}
+
+.bbg {
+    background: url(../img/mainBack.png) no-repeat;
+    background-position: center center;
+    background-size: contain;
+    padding: 200px;
+}
+.ll{
+    text-align: center;
+    margin: auto auto;
+}*/

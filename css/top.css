@@ -28,36 +28,39 @@ img {
 }
 
 .test2 {
-    height: 75vh;
+    height: 73vh;
+    width: 70vw;
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0px;
-    padding-bottom: 0px;
+    margin-top: 50px;
+    padding-bottom: 10px;
     text-align: center;
     background: url(../img/mainBack.png) no-repeat;
     background-position:25% 1%;
     background-size:100% 100%;
 }
-
+.test21 {
+  text-align: center;
+}
 .test4 {
     position: relative;
 }
 
 .topimg {
-    width: 24vh;
+    width: 12vw;
     position:  relative; top: -3vw;
 }
 .arasuziimg {
-    width: 24vh;
+    width: 12vw;
     position: relative; top:  -3vw;
 }
 .raizyouimg {
-    width: 24vh;
+    width: 12vw;
     position: relative; top: -3vw;
 }
 .yoyakuimg {
-    width: 24vh;
+    width: 12vw;
     position: relative; top: -3vw;
 }
 .staffimg {
@@ -84,7 +87,7 @@ img {
 .test521 {
   text-align: left ;
   font-family: "MS PGothic", Arial, sans-serif;
-  font-size: 2vw;
+  font-size: 1.5vw;
   font-weight: bold;
 }
 
