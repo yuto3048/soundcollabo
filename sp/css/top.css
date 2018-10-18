@@ -1,7 +1,7 @@
 body {
     margin: 0;
     background: url(../img/back_sp.png);
-    background-size: auto;
+    background-size: cover;
 }
 
 main {
@@ -37,7 +37,7 @@ a {
 *}*/
 .cp_offcm04 {
 	position: absolute;
-	top: 20px;
+	top: 0px;
 	left: 20px;
 	display: inline-block;
 }
