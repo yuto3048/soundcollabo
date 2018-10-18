@@ -75,9 +75,10 @@ a {
 	        transform: translateX(250px);
 }
 .cp_offcm04 #cp_toggle04 ~ label::before {
-	font-family: sans-serif;
+	font-family: 'Font Awesome 5 Free';
 	content: '\f0c9';
-	font-size: 2em
+	font-size: 2em;
+	font-weight: bold;
 }
 .cp_offcm04 #cp_toggle04:checked ~ label::before {
 	content: '\f00d';
