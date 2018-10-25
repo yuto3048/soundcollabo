@@ -92,7 +92,7 @@ a {
 
 body {
     margin: 0;
-    background: url(../img/backColor.png);
+    background: url(../img/backColor.jpg);
     background-size: cover;
 }
 
@@ -122,7 +122,7 @@ img {
 
 .test2 {
     width: 70vw;
-    height: 73vh;
+    height: 60vh;
     margin-bottom: 0;
     margin-left: auto;
     margin-right: auto;
@@ -137,22 +137,22 @@ img {
     width: 65vw;
     float: left;
     overflow: scroll;
-    height: 65vh;
+    height: 50vh;
 }
 
 .test52 {
     width: 60vw;
-    height: 70vh;
+    height: 50vh;
 }
 .test521 {
   width: 60vw;
-  height: 73vh;
+  height: 50vh;
   font-family: "MS PGothic", Arial, sans-serif;
-  font-size: 16px;
+  font-size: 13px;
   font-weight: bold;
-  padding-top: 10vw;
-  padding-left: 5vw;
-  padding-right: 5vw;
-  text-align: center;
+  /*padding-top: 10vw;*/
+  padding-left: 4vw;
+  padding-right: 4vw;
+  text-align: left;
 }
 

@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: url(../img/backColor.png);
+    background: url(../img/backColor.jpg);
     background-size: cover;
 }
 
@@ -72,12 +72,13 @@ img {
 
 .test5 {
     width: 70vw;
-    height: 50vh;
+    height: 55vh;
     float: left;
+    overflow: scroll;
 }
 .test51 {
   width: 20vw;
-  height: 50vh;
+  height: 60vh;
   float: left;
   padding-left: 5vw;
 }
@@ -94,19 +95,19 @@ img {
   padding-left: 1vw;
 }
 .test511 {
-  font-size: 1.5vw;
+  font-size: 24px;
   text-align: left;
   font-family: "MS PGothic", Arial, sans-serif;
   font-weight: bold;
 }
 .test5121 {
-  font-size: 1.5vw;
+  font-size: 24px;
   text-align: left;
   font-family: "MS PGothic", Arial, sans-serif;
   font-weight: bold;
 }
 .test521 {
-  font-size: 1.5vw;
+  font-size: 24px;
   text-align: left;
   font-family: "MS PGothic", Arial, sans-serif;
   font-weight: bold;
